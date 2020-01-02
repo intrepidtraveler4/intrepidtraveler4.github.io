@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
        <meta charset="utf-8">
@@ -102,7 +102,7 @@
 
 <h2 id="Who-am-I">Who am I</h2>
 
-<p> My name is Nicholas Schwarzbeck and I am 17 years old. I have spent my summers since I was 3 months old living at Hecate Cove. For the past 6 years I have hiked and kayaked all over Nootka Island. Additionally I have hiked in Peru, Chile, Vancouver Island, Seattle and Mexico. To name a few of the hikes I have completed, the Elk River Trail near Campbell River (26km), Nootka Trail (), and the Torres del Paine W trek (100km). From my experiences, I have a vast knowledge of Nootka Island.  </p>
+<p> My name is Nicholas Schwarzbeck and I am 15 years old. I have spent my summers since I was 3 months old living at Hecate Cove. For the past 6 years I have hiked and kayaked all over Nootka Island. Additionally I have hiked in Peru, Chile, Vancouver Island, Seattle and Mexico. To name a few of the hikes I have completed, the Elk River Trail near Campbell River (26km), Nootka Trail (), and the Torres del Paine W trek (100km). From my experiences, I have a vast knowledge of Nootka Island.  </p>
 <img src="C:\Users\nicho\AppData\Local\Microsoft\Windows\INetCache\IE\QNB6DY5T\IMG_6152[1].JPG" width="750
 ">
 <h2 id="Itinerary">Itinerary</h2>
